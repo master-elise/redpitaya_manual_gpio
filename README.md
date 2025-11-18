@@ -46,3 +46,5 @@ GPIO direction register (based address +4) 0s to set the pins as outputs, and GP
 base address to switch on or off the yellow LEDs connected to the EMIO of the PL.
 
 These steps are automated as one single TCL script found at https://github.com/master-elise/redpitaya_axi_gpio
+
+Tested with Vivado 2024.02
