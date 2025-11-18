@@ -25,7 +25,7 @@ signal name change above.
 
 Right click: Design Souces -> Add HDL Wrapper
 
-<img src=2025-11-18-105822_2944x1080_scrot.png">
+<img src="2025-11-18-105822_2944x1080_scrot.png">
 
 Launch the synthesis, and if all goes well a ``.bit`` file is generated in ``project.runs/impl_1/system_wrapper.bit``
 
